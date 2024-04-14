@@ -1,14 +1,14 @@
 const MAX_COLUMN_SHOW = 20
 
 const FIREBASE_CONFIG = {
-  apiKey: "AIzaSyDjfqKtzcnRMExnGSP_8j-wzaOkhAL55_Q",
-  authDomain: "esp32-mx2.firebaseapp.com",
-  databaseURL: "https://esp32-mx2-default-rtdb.firebaseio.com",
-  projectId: "esp32-mx2",
-  storageBucket: "esp32-mx2.appspot.com",
-  messagingSenderId: "273854976046",
-  appId: "1:273854976046:web:0914d0125eed13563ecfbf",
-  measurementId: "G-LBX7H74CQL"
+  apiKey: "AIzaSyDddpR1J88o7paWLodCAsYxm4rTJIyiTqs",
+  authDomain: "esp32-mit-1eeaa.firebaseapp.com",
+  databaseURL: "https://esp32-mit-1eeaa-default-rtdb.firebaseio.com",
+  projectId: "esp32-mit-1eeaa",
+  storageBucket: "esp32-mit-1eeaa.appspot.com",
+  messagingSenderId: "425160870404",
+  appId: "1:425160870404:web:256d92dee0a590614d0351",
+  measurementId: "G-MCV86WSNCV"
 }
 
 firebase.initializeApp(FIREBASE_CONFIG);
